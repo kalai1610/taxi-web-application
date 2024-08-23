@@ -1,3 +1,51 @@
+**Taxi Web Application**
+This is a taxi web application developed using the following technologies:
+Laravel Framework
+MySQL
+OpenLayers (an open-source map library)
+GeoMap API
+
+**Getting Started**
+To use or explore this application, follow the steps below:
+Download the Project
+
+Clone or download the project from the repository.
+Unzip the Project
+
+Extract the contents of the downloaded file.
+Move the Project
+
+**Move the unzipped project folder to xampp/htdocs.**
+**Open in IDE**
+
+Open the project in your favorite IDE (e.g., VS Code, PHPStorm).
+**Open the Terminal**
+
+Use the terminal in your IDE or system terminal.
+Install Dependencies using
+**"composer install"**
+
+**Configure the Database**
+Update the .env file with your database credentials and other required information.
+Run Migrations
+**php artisan migrate**
+
+Start the Application:
+**php artisan serve**
+
+Start the Queue Worker
+Open another terminal and run:
+**php artisan queue:work**
+
+Access the Application
+Open your browser and navigate to:
+
+Driver Login/Sign-up: **http://127.0.0.1:8000/driver/login**
+Customer Login/Sign-up: **http://127.0.0.1:8000/customer/login**
+
+
+
+
 ![Screenshot (116)](https://github.com/user-attachments/assets/0077314e-ed7d-4c7a-9040-455bca39076f)
 ![Screenshot (137)](https://github.com/user-attachments/assets/064d5843-f883-48e4-abac-774f49e6ce98)
 ![Screenshot (136)](https://github.com/user-attachments/assets/19d299f3-7224-4bbe-aa36-066246eed70b)
