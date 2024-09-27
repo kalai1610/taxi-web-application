@@ -49,9 +49,7 @@ Customer Login/Sign-up: **http://127.0.0.1:8000/customer/login**
 
 
 ![Screenshot (116)](https://github.com/user-attachments/assets/0077314e-ed7d-4c7a-9040-455bca39076f)
-![Screenshot (137)](https://github.com/user-attachments/assets/064d5843-f883-48e4-abac-774f49e6ce98)
-![Screenshot (136)](https://github.com/user-attachments/assets/19d299f3-7224-4bbe-aa36-066246eed70b)
-![Screenshot (135)](https://github.com/user-attachments/assets/7571dd38-fc1d-43c3-b48d-a285ea242dd0)
+
 ![Screenshot (134)](https://github.com/user-attachments/assets/31731d55-f148-42d8-9c87-4ba1ef8d4eac)
 ![Screenshot (133)](https://github.com/user-attachments/assets/90d3aa00-b77c-488b-b6cc-52f743ce0d01)
 ![Screenshot (132)](https://github.com/user-attachments/assets/498c3c45-9142-48e1-9b88-a9e78b66d842)
