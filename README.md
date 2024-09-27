@@ -43,7 +43,9 @@ Open your browser and navigate to:
 Driver Login/Sign-up: **http://127.0.0.1:8000/driver/login**
 Customer Login/Sign-up: **http://127.0.0.1:8000/customer/login**
 
+**this is design of my database for taxi booking application**
 
+![DB design of taxi booking application](https://github.com/user-attachments/assets/684fbb72-101f-4d37-b6f7-0703b0aa44f8)
 
 
 ![Screenshot (116)](https://github.com/user-attachments/assets/0077314e-ed7d-4c7a-9040-455bca39076f)
